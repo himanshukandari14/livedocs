@@ -4,7 +4,7 @@
 ## Live 🔴 : https://livedocs-seven.vercel.app/
 ## Introduction
 
-Welcome to **Project ITWS** ✨, a real-time collaboration tool designed to enhance your document editing and sharing experience. With features that enable seamless collaboration, instant feedback, and effective communication, Project ITWS is here to make teamwork more efficient and enjoyable.
+Welcome to **LiveDoc** ✨, a real-time collaboration tool designed to enhance your document editing and sharing experience. With features that enable seamless collaboration, instant feedback, and effective communication, Project ITWS is here to make teamwork more efficient and enjoyable.
 
 ## Features
 
